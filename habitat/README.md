@@ -7,10 +7,12 @@ https://bldr.habitat.sh/#/pkgs/drakoswraith/portqryv2
 
 
 ## Installation
+
+```
 hab pkg install drakoswraith/portqryv2
 hab pkg binlink drakoswraith/portqryv2
 portqry
-
+```
 
 ## Usage
 PortQry Usage Information:

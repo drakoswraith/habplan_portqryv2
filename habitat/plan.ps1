@@ -1,6 +1,6 @@
 $pkg_name="portqryv2"
 $pkg_origin="drakoswraith"
-$pkg_version="0.1.2"
+$pkg_version="0.1.3"
 $pkg_maintainer="drakoswraith@gmail.com"
 $pkg_license=@("MIT")
 $pkg_upstream_url="https://github.com/drakoswraith/habplan_portqryv2"
